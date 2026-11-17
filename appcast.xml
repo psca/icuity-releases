@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Icuity</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Tue, 17 Nov 2026 20:59:45 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 0.2.0
+
+- **In-app updates.** Icuity now checks for new versions and offers to install them. Use
+  **Icuity ▸ Check for Updates…** any time, or turn on automatic installation in
+  **Settings ▸ Updates**. An update waits until unsaved edits are saved.
+- **Your own zones.** Workout previews and targets use your intervals.icu settings for each
+  sport: FTP, threshold heart rate, threshold pace and zones.
+- **Fixes.** Long calendar events keep their full length, the sidebar comes back when you widen
+  the window, server errors are shown in plain language, and Undo Delete no longer lingers after
+  you switch accounts.
+
+This is the last version you need to install by hand. Later versions arrive through the app.
+]]></description>
+            <enclosure url="https://github.com/psca/icuity-releases/releases/download/v0.2.0/Icuity-0.2.0-universal.dmg" length="7306698" type="application/octet-stream" sparkle:edSignature="WWXG4MXXWRApQjzvsRbrIKCyTcckMozERJWdRLnG5+IVzY1jQQ4mdgaa/L1/XbUMKeZPIPK/w0nV0h4TV4N/AA=="/>
+        </item>
+    </channel>
+</rss>
