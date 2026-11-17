@@ -3,6 +3,20 @@
     <channel>
         <title>Icuity</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Tue, 17 Nov 2026 21:37:58 +0800</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 0.2.1
+
+- **Choose when your week starts.** Weeks now start on Monday. To change that, open
+  **Settings ▸ Calendar** and pick Sunday, or Follow system to use your Mac's region setting.
+  The week view, month grid, day picker, weekly totals and the menu bar's week all follow it.
+]]></description>
+            <enclosure url="https://github.com/psca/icuity-releases/releases/download/v0.2.1/Icuity-0.2.1-universal.dmg" length="7345102" type="application/octet-stream" sparkle:edSignature="fUqvS39gKxofH8VQ0yhMYvJWEYVUjcrZh4fEdmPmzBhz2RzoP91XXPc04U6Qc8xKCmI/q5StOFLOAQNnBh6uCQ=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Tue, 17 Nov 2026 20:59:45 +0800</pubDate>
             <sparkle:version>2</sparkle:version>
