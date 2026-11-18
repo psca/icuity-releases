@@ -3,6 +3,20 @@
     <channel>
         <title>Icuity</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Tue, 17 Nov 2026 23:03:15 +0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 0.2.2
+
+- **A clearer installer.** Opening the download now shows a simple window: drag Icuity onto
+  Applications to install. It also says what to do if macOS blocks the first launch.
+- Nothing changes inside the app; if you already have Icuity installed, this update is optional.
+]]></description>
+            <enclosure url="https://github.com/psca/icuity-releases/releases/download/v0.2.2/Icuity-0.2.2-universal.dmg" length="7731599" type="application/octet-stream" sparkle:edSignature="yFQu3uaiiypF6Klr0KFr5Y0kJgqFTs/K6hrqR+v9oX6RudXXGggPWqWkRfF/xGXrddxqZDRnqc+MnuwPcC6zBw=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Tue, 17 Nov 2026 21:37:58 +0800</pubDate>
             <sparkle:version>3</sparkle:version>
