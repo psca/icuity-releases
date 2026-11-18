@@ -3,6 +3,25 @@
     <channel>
         <title>Icuity</title>
         <item>
+            <title>0.2.3</title>
+            <pubDate>Wed, 18 Nov 2026 16:33:42 +0800</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 0.2.3
+
+- **Try Icuity without an account.** Choose **Try demo** when you first open the app to explore
+  with sample workouts. An optional four-step walkthrough shows how to select, move, edit and
+  schedule workouts. Nothing in the demo touches your calendar, and connecting your account
+  clears it.
+- **Rename workouts in place.** Click a planned workout's title in the inspector to edit it.
+  Return saves; Escape discards.
+- **Library layout fix.** The Library no longer slides under the title bar, including in narrow
+  windows.
+]]></description>
+            <enclosure url="https://github.com/psca/icuity-releases/releases/download/v0.2.3/Icuity-0.2.3-universal.dmg" length="7900332" type="application/octet-stream" sparkle:edSignature="g/S6/LQRLiSHlLQC24Sar4oA0hbv5WjMfv0h8fVhuyJdo+Gm/6SfOAMF0AyDovc0NUtovjqkJUwlxcsF7fKgBw=="/>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Tue, 17 Nov 2026 23:03:15 +0800</pubDate>
             <sparkle:version>4</sparkle:version>
