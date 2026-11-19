@@ -3,6 +3,29 @@
     <channel>
         <title>Icuity</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Thu, 19 Nov 2026 22:28:36 +0800</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 0.3.0
+
+- **Edit workouts as blocks.** A planned workout's steps now show one per line in the inspector.
+  Tap a time to change it, or tap the zone to pick another from your own zones (with your watt,
+  heart-rate or pace ranges) or type a percentage. The **···** menu duplicates, deletes or moves a
+  step, or turns it into a repeat, and repeats have − / + to change the count. Switch to **Text**
+  at any time to edit the step text directly. Adding a workout works the same way.
+- **See the shape as you edit.** The workout graph redraws as you change steps and highlights the
+  one you are editing. Lines Icuity can't read are kept exactly as written and flagged.
+- **Undo step changes** with ⌘Z and ⇧⌘Z, or the undo and redo buttons.
+- **A tidier inspector.** The date, sport and indoor setting sit as small buttons under the title,
+  so the steps start near the top without scrolling.
+- **Edit notes and other events.** Notes, holidays and other calendar events can now be renamed,
+  given new dates (including a multi-day span) and described, right in the inspector.
+]]></description>
+            <enclosure url="https://github.com/psca/icuity-releases/releases/download/v0.3.0/Icuity-0.3.0-universal.dmg" length="8728948" type="application/octet-stream" sparkle:edSignature="uCfyatLfhf84Jo6Lm7L3L9wWRH5Lg1btupjcV0c1dpNy9RnD9CBNVRd3MGFRnT5MCNz8QuuvaRsyI6HkM3oaCg=="/>
+        </item>
+        <item>
             <title>0.2.3</title>
             <pubDate>Wed, 18 Nov 2026 16:33:42 +0800</pubDate>
             <sparkle:version>5</sparkle:version>
