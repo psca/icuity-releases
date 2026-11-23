@@ -3,6 +3,28 @@
     <channel>
         <title>Icuity</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Mon, 23 Nov 2026 16:24:27 +0800</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 0.4.0
+
+- **A full workout builder.** Click **Open in builder** next to a planned workout's steps to edit
+  it in its own window. Drag blocks from the palette onto the workout (or click one to add it),
+  drag a step's edge in the graph to change its length, and pick its zone from the rail beside it.
+  The workout's total time, load and intensity update as you go.
+- **One workout, two places.** The builder and the inspector edit the same unsaved changes, so you
+  can switch between them freely. ⌘Z undoes step changes in either window, and nothing is saved
+  until you click Save.
+- **Build library workouts.** **New Workout** in the library opens the builder for a new workout:
+  give it a name, choose a folder and save it straight to your intervals.icu library. **Edit** on a
+  library workout opens it the same way. If a save fails, your changes stay in the window so you
+  can try again.
+]]></description>
+            <enclosure url="https://github.com/psca/icuity-releases/releases/download/v0.4.0/Icuity-0.4.0-universal.dmg" length="9763148" type="application/octet-stream" sparkle:edSignature="kaxU5SnhVFIlNtE9b0icqruezD25jUxf9ukjIbL6LpBb/G4g18I/Y5NR8Ib70mspY3ArxCXoevYkEkKGdoIiDQ=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Thu, 19 Nov 2026 22:28:36 +0800</pubDate>
             <sparkle:version>6</sparkle:version>
