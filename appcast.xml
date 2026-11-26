@@ -3,6 +3,23 @@
     <channel>
         <title>Icuity</title>
         <item>
+            <title>0.5.1</title>
+            <pubDate>Thu, 26 Nov 2026 15:10:52 +0800</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 0.5.1
+
+- **Activity details get the whole window.** Click **Show details** in the inspector, double-click
+  a completed workout, or choose **Show Details** from its menu. The workout fills the window: the
+  plots on the left, the reps and route on the right. **‹ Calendar** at the top left (or Esc, or
+  ⌘[) takes you back with the workout still selected.
+- **A simpler calendar.** Clicking a completed workout now just selects it, so you can browse the
+  week without the details opening each time. The drawer and its resize handle are gone.
+]]></description>
+            <enclosure url="https://github.com/psca/icuity-releases/releases/download/v0.5.1/Icuity-0.5.1-universal.dmg" length="11205014" type="application/octet-stream" sparkle:edSignature="X8vq6X/YvVlzEXzvkfx4WgWCF81YYRRCbsDH2xTjFoJViteoMIuBsA503hyvZY/s01AHFDNS74mEKi/poZq3CQ=="/>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Thu, 26 Nov 2026 11:27:12 +0800</pubDate>
             <sparkle:version>8</sparkle:version>
