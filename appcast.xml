@@ -3,6 +3,28 @@
     <channel>
         <title>Icuity</title>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Thu, 26 Nov 2026 11:27:12 +0800</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 0.5.0
+
+- **See how a workout went.** Click a completed workout to open its details under the week. Power
+  (or pace) is drawn over the planned target, with heart rate below on the same time line. Optional
+  lanes show cadence, W′ balance and altitude. Move the pointer across the plot to read any moment.
+- **Every rep at a glance.** The interval table lists each recorded rep with its average power or
+  pace, heart rate and how long heart rate took to reach zone 4, checked against the plan. Click a
+  rep to highlight it on the plot and the route map.
+- **Compare reps.** Put two reps side by side from their own start, to see how much earlier heart
+  rate climbed as the session went on.
+- **Room to look.** Drag the handle to resize the details, collapse the inspector with › to give
+  them more width, and switch to the month view to see the activity's week pinned above them.
+  Gaps, pauses and missing heart rate are shown as they are, never filled in.
+]]></description>
+            <enclosure url="https://github.com/psca/icuity-releases/releases/download/v0.5.0/Icuity-0.5.0-universal.dmg" length="11304430" type="application/octet-stream" sparkle:edSignature="PiEfuyRgl/WGBw8Am2WNJ5/ARBlozS15X373bz4ZN2NUnhTsl1i3qCDPMmpSy7fW3/5fqgPsJaGv5zze77ggAA=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Mon, 23 Nov 2026 16:24:27 +0800</pubDate>
             <sparkle:version>7</sparkle:version>
