@@ -3,6 +3,22 @@
     <channel>
         <title>Icuity</title>
         <item>
+            <title>0.5.2</title>
+            <pubDate>Thu, 26 Nov 2026 17:47:19 +0800</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 0.5.2
+
+- **A steadier route map.** Moving the pointer across the plots now only moves the dot on the map.
+  The map no longer zooms or changes size as you hover in and out, and it stays framed on the whole
+  route when you pick a rep. You can still pan and zoom it yourself.
+- **Steadier plots.** The readout under the plots keeps the same height whether or not you are
+  hovering, so nothing around it shifts.
+]]></description>
+            <enclosure url="https://github.com/psca/icuity-releases/releases/download/v0.5.2/Icuity-0.5.2-universal.dmg" length="11211652" type="application/octet-stream" sparkle:edSignature="VWoRlKANXQ+MspqHKry4rKVSPZPsXH5tZnEIaHkohDBPk0qm0dTgy8nT/FmXFhsupUlI/Z9T2s9DFpOW73DcAw=="/>
+        </item>
+        <item>
             <title>0.5.1</title>
             <pubDate>Thu, 26 Nov 2026 15:10:52 +0800</pubDate>
             <sparkle:version>9</sparkle:version>
